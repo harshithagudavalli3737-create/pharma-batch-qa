@@ -46,4 +46,4 @@ records, and producing a professional Excel audit report.
 
 ## Dashboard Preview
 
-![QA Dashboard](QA_Dashboard_HGudavalli.png)
+![QA Dashboard](QA_Dashboard_HGudavalli%20(1).png)
